@@ -13,7 +13,7 @@
   <link rel="icon" href="images/icon.png">
   <!-- Bootstrap --> 
   <link href="css/bootstrap.min.css" rel="stylesheet" /> 
-  <link href="css/global.css?4" rel="stylesheet" /> 
+  <link href="css/global.css?9" rel="stylesheet" /> 
   <script src="js/shover.min.js"></script> 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --> 
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> 

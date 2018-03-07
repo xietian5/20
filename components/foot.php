@@ -72,7 +72,7 @@
   <script src="js/bootstrap.min.js"></script> 
   <script src="js/bootstrap.js"></script> 
   <script src="js/indexglobal.js?1"></script> 
-  <script src="js/global.js?1"></script> 
+  <script src="js/global.js?2"></script> 
   <script src="js/smooth-scroll.js"></script>
   <script>
 
