@@ -49,7 +49,7 @@
        </tr> 
        <tr> 
         <td align="right" height="25" class="footericon"><span class="glyphicon glyphicon-envelope"></span></td> 
-        <td><span>邮箱: <a href="mailto:dxb2004@qq.com" style="color: #ddd">dxb2004@qq.com</a></span></td> 
+        <td><span>邮箱: <a href="mailto:duanxb@qun-tai.com" style="color: #ddd">duanxb@qun-tai.com</a></span></td> 
        </tr> 
        <tr> 
         <td align="right" height="25" class="footericon"><span class="glyphicon glyphicon-print"></span></td> 

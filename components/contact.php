@@ -42,7 +42,7 @@
        电话：027-81626206
       </div> 
       <div class="con1_xun_zi">
-       邮箱：dxb2004@qq.com
+       邮箱：duanxb@qun-tai.com
       </div> 
      </div> 
     </div> 
